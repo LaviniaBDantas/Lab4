@@ -1,6 +1,6 @@
 package org.example;
 
-public class Cafeteria {
+public class MainCafeteria {
     public static void main(String[] args) {
 
         System.out.println("Bem vindo a cafeteria!");
